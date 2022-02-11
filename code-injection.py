@@ -21,6 +21,8 @@ print ("girdiginiz dork taranıyor ")
 import time 
 time.sleep(5)
 
+clear 
+
 print ("""
 
 https://en.ephoto360.com/
