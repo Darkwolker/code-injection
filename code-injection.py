@@ -19,9 +19,7 @@ time.sleep(3)
 print ("girdiginiz dork taranıyor ")
 
 import time 
-time.sleep(5)
-
-clear 
+time.sleep(5) 
 
 print ("""
 
