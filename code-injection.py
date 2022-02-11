@@ -26,6 +26,8 @@ os.system('clear')
 
 print ("""
 
+ SİTELER BULUNDU 
+ 
 https://en.ephoto360.com/
 [ACIK BULUNDU]
 
